@@ -1,0 +1,9 @@
+Package used:
+
+1) NLTK
+2) Word2Vec
+3) sklearn
+4) Tensorflow
+5) Gensim Package
+6) numpy
+7) Pathlib
