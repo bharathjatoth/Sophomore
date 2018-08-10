@@ -8,7 +8,7 @@ n_nodes_hl2 = 1000
 n_nodes_hl3 = 500
 n_classes = 30
 batch_size = 10
-hm_epochs = 64
+hm_epochs = 16
 x = tf.placeholder('float')
 y = tf.placeholder('float')
 #defining weights and bias of the hidden layers
