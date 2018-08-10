@@ -1,2 +1,2 @@
-from first.py import run
+from first import run
 run()
